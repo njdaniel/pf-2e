@@ -447,6 +447,20 @@
     "critical": "x2",
     "type": "Bludgeoning",
     "name": "Hammer, light"
+  },{
+    "category": "Exotic Weapons",
+    "family": "Weapons",
+    "subcategory": "Range Weapons",
+    "reference": "Nick's Rules",
+    "full_text": "Misfire: roll 1-2 automatically fail to shoot. Neets 3actions to clean gun. Attack is against TAC. 10cartriges/10gp. Scatter shot: range=10ft, 1d8",
+    "range_increment": "50 ft",
+    "weight": "12 lb.",
+    "dmg_s": "3d6",
+    "dmg_m": "4d6",
+    "cost": "1600 gp",
+    "critical": "x4",
+    "type": "Piercing and Bludgeoning",
+    "name": "Musket"
   },
   {
     "category": "Martial Weapons",
